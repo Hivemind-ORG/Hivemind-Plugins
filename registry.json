@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "hivemind-debug",
+      "name": "Hivemind Debug",
+      "version": "0.0.1",
+      "description": "Debug dashboard showing system info, repositories, agent sessions, and an event log for all plugin hooks.",
+      "author": "Hivemind",
+      "icon": "bug_report",
+      "download_url": "https://github.com/Hivemind-ORG/Hivemind-Plugins/releases/download/hivemind-debug-v0.0.1/hivemind-debug.zip"
+    }
+  ]
+}
